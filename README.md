@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="assets/eevee.gif" width="170" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="assets/bulbasaur.gif" width="130" />
+  <img src="assets/eevee.gif" width="150" />
+  <img src="assets/snorlax.gif" width="160" />
 </div>
+
+<br/>
+
 
 <h1 align="center">Hi, I'm Fran</h1>
 
@@ -22,9 +27,6 @@ I enjoy learning new technologies and building projects that help me grow as a d
 - SQL & NoSQL databases  
 - Git · Linux  
 
-<div align="center">
-  <img src="assets/bulbasaur.gif" width="150" />
-</div>
 
 
 ## 𔓘 About Me 𔓘
@@ -39,6 +41,3 @@ I enjoy learning new technologies and building projects that help me grow as a d
 - Building projects to strengthen my portfolio  
 - Improving my programming and design skills  
 
-<div align="center">
-  <img src="assets/snorlax.gif" width="180" />
-</div>
