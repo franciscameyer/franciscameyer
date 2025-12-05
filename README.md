@@ -1,6 +1,12 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div align="left">
   <img src="assets/bulbasaur.gif" width="130" />
+</div>
+
+<div align="center">
   <img src="assets/eevee.gif" width="150" />
+</div>
+
+<div align="right">
   <img src="assets/snorlax.gif" width="160" />
 </div>
 
