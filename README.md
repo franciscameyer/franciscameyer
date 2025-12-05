@@ -1,16 +1,15 @@
 <div align="left">
-  <img src="assets/bulbasaur.gif" width="130" />
+  <img src="./assets/bulbasaur.gif" alt="Bulbasaur" width="130" />
 </div>
 
 <div align="center">
-  <img src="assets/eevee.gif" width="150" />
+  <img src="./assets/eevee.gif" alt="Eevee" width="150" />
 </div>
 
 <div align="right">
-  <img src="assets/snorlax.gif" width="160" />
+  <img src="./assets/snorlax.gif" alt="Snorlax" width="160" />
 </div>
 
-<br/>
 
 
 <h1 align="center">Hi, I'm Fran</h1>
